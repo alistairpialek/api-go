@@ -3,18 +3,17 @@ package routes
 import (
 	"net/http"
 	"net/http/httptest"
-	"regexp"
 	"testing"
 )
 
-func TestGetHello(t *testing.T) {
-	req, err := http.NewRequest("GET", HelloEndpoint, nil)
+func TestGetHealth(t *testing.T) {
+	req, err := http.NewRequest("GET", HealthEndpoint, nil)
 	if err != nil {
 		t.Fatal(err)
 	}
 
 	rr := httptest.NewRecorder()
-	handler := http.HandlerFunc(GetHello)
+	handler := http.HandlerFunc(GetHealth)
 
 	handler.ServeHTTP(rr, req)
 
@@ -25,8 +24,8 @@ func TestGetHello(t *testing.T) {
 	}
 
 	// Check the response body is what we expect.
-	expected := `{"message":"Hello world, the time is currently .+"}`
-	if matched, _ := regexp.MatchString(expected, rr.Body.String()); !matched {
+	expected := ``
+	if rr.Body.String() != expected {
 		t.Errorf("handler returned unexpected body: got %v want %v",
 			rr.Body.String(), expected)
 	}

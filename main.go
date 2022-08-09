@@ -13,12 +13,12 @@ import (
 )
 
 func handleRequests() {
-
 	// Strictslash will redirect URL routes with a trailing / to the non-slash route.
 	// E.g path/ -> path
 	router := mux.NewRouter().StrictSlash(true)
 
 	router.HandleFunc(routes.HelloEndpoint, routes.GetHello).Methods("GET")
+	router.HandleFunc(routes.HealthEndpoint, routes.GetHealth).Methods("GET")
 
 	log.Printf("Listening on port: %s", os.Getenv("LISTEN_PORT"))
 
