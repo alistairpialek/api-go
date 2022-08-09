@@ -8,6 +8,7 @@ import (
 )
 
 const (
+	// HelloEndpoint route.
 	HelloEndpoint string = "/hello"
 )
 
@@ -15,6 +16,7 @@ type helloResponse struct {
 	Message string `json:"message"`
 }
 
+// GetHello returns a greeting.
 func GetHello(w http.ResponseWriter, r *http.Request) {
 	timeStart := time.Now()
 
