@@ -1,0 +1,2612 @@
+[
+ {
+   "app": "alertmanager",
+   "time": "20227-21T06:35:00.000Z",
+   "cpu usage (mcores)": 397.5306,
+   "memory usage (MiB)": 27.456854
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T06:40:00.000Z",
+   "cpu usage (mcores)": 418.9,
+   "memory usage (MiB)": 27.91506
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T06:45:00.000Z",
+   "cpu usage (mcores)": 1028.0434,
+   "memory usage (MiB)": 27.943186
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T06:50:00.000Z",
+   "cpu usage (mcores)": 451.3099,
+   "memory usage (MiB)": 27.560618
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T06:55:00.000Z",
+   "cpu usage (mcores)": 431.1,
+   "memory usage (MiB)": 27.52785
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:00:00.000Z",
+   "cpu usage (mcores)": 413.96,
+   "memory usage (MiB)": 27.673122
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:05:00.000Z",
+   "cpu usage (mcores)": 370.8,
+   "memory usage (MiB)": 27.757772
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:10:00.000Z",
+   "cpu usage (mcores)": 458.1269,
+   "memory usage (MiB)": 44.276804
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:15:00.000Z",
+   "cpu usage (mcores)": 408.28,
+   "memory usage (MiB)": 25.820364
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:20:00.000Z",
+   "cpu usage (mcores)": 434.0034,
+   "memory usage (MiB)": 27.455762
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:25:00.000Z",
+   "cpu usage (mcores)": 407.97,
+   "memory usage (MiB)": 27.747396
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:30:00.000Z",
+   "cpu usage (mcores)": 437.1,
+   "memory usage (MiB)": 26.824978
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:35:00.000Z",
+   "cpu usage (mcores)": 453.5,
+   "memory usage (MiB)": 27.092582
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:40:00.000Z",
+   "cpu usage (mcores)": 424.0693,
+   "memory usage (MiB)": 27.364284
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:45:00.000Z",
+   "cpu usage (mcores)": 420.9676,
+   "memory usage (MiB)": 26.981172
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:50:00.000Z",
+   "cpu usage (mcores)": 428.5,
+   "memory usage (MiB)": 28.499694
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T07:55:00.000Z",
+   "cpu usage (mcores)": 440.4898,
+   "memory usage (MiB)": 27.528124
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:00:00.000Z",
+   "cpu usage (mcores)": 423.7,
+   "memory usage (MiB)": 27.78781
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:05:00.000Z",
+   "cpu usage (mcores)": 445.6,
+   "memory usage (MiB)": 27.526486
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:10:00.000Z",
+   "cpu usage (mcores)": 418.0876,
+   "memory usage (MiB)": 27.421354
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:15:00.000Z",
+   "cpu usage (mcores)": 458.7497,
+   "memory usage (MiB)": 27.352814
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:20:00.000Z",
+   "cpu usage (mcores)": 405.7,
+   "memory usage (MiB)": 27.849796
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:25:00.000Z",
+   "cpu usage (mcores)": 438.0967,
+   "memory usage (MiB)": 28.446174
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:30:00.000Z",
+   "cpu usage (mcores)": 1025.4362,
+   "memory usage (MiB)": 49.20762
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:35:00.000Z",
+   "cpu usage (mcores)": 484.6,
+   "memory usage (MiB)": 25.78077
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:40:00.000Z",
+   "cpu usage (mcores)": 486,
+   "memory usage (MiB)": 25.47357
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:45:00.000Z",
+   "cpu usage (mcores)": 422.6,
+   "memory usage (MiB)": 27.518294
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:50:00.000Z",
+   "cpu usage (mcores)": 391.64,
+   "memory usage (MiB)": 27.236488
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T08:55:00.000Z",
+   "cpu usage (mcores)": 413.3,
+   "memory usage (MiB)": 27.758866
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:00:00.000Z",
+   "cpu usage (mcores)": 411.3,
+   "memory usage (MiB)": 27.926528
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:05:00.000Z",
+   "cpu usage (mcores)": 395.74,
+   "memory usage (MiB)": 28.240828
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:10:00.000Z",
+   "cpu usage (mcores)": 425.581,
+   "memory usage (MiB)": 27.580006
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:15:00.000Z",
+   "cpu usage (mcores)": 434.3815,
+   "memory usage (MiB)": 27.63817
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:20:00.000Z",
+   "cpu usage (mcores)": 427.3,
+   "memory usage (MiB)": 28.601822
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:25:00.000Z",
+   "cpu usage (mcores)": 384.2,
+   "memory usage (MiB)": 28.07098
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:30:00.000Z",
+   "cpu usage (mcores)": 436.2,
+   "memory usage (MiB)": 28.053504
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:35:00.000Z",
+   "cpu usage (mcores)": 405.15,
+   "memory usage (MiB)": 27.883384
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:40:00.000Z",
+   "cpu usage (mcores)": 423.6494,
+   "memory usage (MiB)": 28.018824
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:45:00.000Z",
+   "cpu usage (mcores)": 422.4,
+   "memory usage (MiB)": 28.0576
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:50:00.000Z",
+   "cpu usage (mcores)": 406.9802,
+   "memory usage (MiB)": 27.584648
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T09:55:00.000Z",
+   "cpu usage (mcores)": 438.6989,
+   "memory usage (MiB)": 27.932262
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:00:00.000Z",
+   "cpu usage (mcores)": 404.9335,
+   "memory usage (MiB)": 28.09938
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:05:00.000Z",
+   "cpu usage (mcores)": 386.48,
+   "memory usage (MiB)": 27.90714
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:10:00.000Z",
+   "cpu usage (mcores)": 413.7,
+   "memory usage (MiB)": 28.002168
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:15:00.000Z",
+   "cpu usage (mcores)": 396.95,
+   "memory usage (MiB)": 28.476484
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:20:00.000Z",
+   "cpu usage (mcores)": 421.9,
+   "memory usage (MiB)": 28.441532
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:25:00.000Z",
+   "cpu usage (mcores)": 399.3581,
+   "memory usage (MiB)": 28.353332
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:30:00.000Z",
+   "cpu usage (mcores)": 412.2,
+   "memory usage (MiB)": 27.919974
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:35:00.000Z",
+   "cpu usage (mcores)": 389.72,
+   "memory usage (MiB)": 28.452454
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:40:00.000Z",
+   "cpu usage (mcores)": 406.95,
+   "memory usage (MiB)": 27.450846
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:45:00.000Z",
+   "cpu usage (mcores)": 405.27,
+   "memory usage (MiB)": 28.03002
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:50:00.000Z",
+   "cpu usage (mcores)": 375.89,
+   "memory usage (MiB)": 27.809656
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T10:55:00.000Z",
+   "cpu usage (mcores)": 1076.4148,
+   "memory usage (MiB)": 27.896764
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:00:00.000Z",
+   "cpu usage (mcores)": 390.6241,
+   "memory usage (MiB)": 28.575608
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:05:00.000Z",
+   "cpu usage (mcores)": 399.9866,
+   "memory usage (MiB)": 27.95875
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:10:00.000Z",
+   "cpu usage (mcores)": 475.7525,
+   "memory usage (MiB)": 43.549856
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:15:00.000Z",
+   "cpu usage (mcores)": 438.4,
+   "memory usage (MiB)": 25.16364
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:20:00.000Z",
+   "cpu usage (mcores)": 434.9,
+   "memory usage (MiB)": 27.036876
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:25:00.000Z",
+   "cpu usage (mcores)": 424,
+   "memory usage (MiB)": 27.40852
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:30:00.000Z",
+   "cpu usage (mcores)": 434.8418,
+   "memory usage (MiB)": 27.601032
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:35:00.000Z",
+   "cpu usage (mcores)": 423.5,
+   "memory usage (MiB)": 27.368652
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:40:00.000Z",
+   "cpu usage (mcores)": 451.2,
+   "memory usage (MiB)": 27.252872
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:45:00.000Z",
+   "cpu usage (mcores)": 459.445,
+   "memory usage (MiB)": 27.024588
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:50:00.000Z",
+   "cpu usage (mcores)": 384.18,
+   "memory usage (MiB)": 27.299294
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T11:55:00.000Z",
+   "cpu usage (mcores)": 437.6,
+   "memory usage (MiB)": 27.560346
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:00:00.000Z",
+   "cpu usage (mcores)": 474.7,
+   "memory usage (MiB)": 28.496146
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:05:00.000Z",
+   "cpu usage (mcores)": 448.3,
+   "memory usage (MiB)": 27.659196
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:10:00.000Z",
+   "cpu usage (mcores)": 396.14,
+   "memory usage (MiB)": 27.516654
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:15:00.000Z",
+   "cpu usage (mcores)": 402.12,
+   "memory usage (MiB)": 27.965304
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:20:00.000Z",
+   "cpu usage (mcores)": 439.9,
+   "memory usage (MiB)": 27.360734
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:25:00.000Z",
+   "cpu usage (mcores)": 441.2,
+   "memory usage (MiB)": 28.32302
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:30:00.000Z",
+   "cpu usage (mcores)": 445.9244,
+   "memory usage (MiB)": 27.48498
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:35:00.000Z",
+   "cpu usage (mcores)": 445.5,
+   "memory usage (MiB)": 27.491532
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:40:00.000Z",
+   "cpu usage (mcores)": 779.2,
+   "memory usage (MiB)": 28.162458
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:45:00.000Z",
+   "cpu usage (mcores)": 470.0115,
+   "memory usage (MiB)": 28.065518
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:50:00.000Z",
+   "cpu usage (mcores)": 423.5,
+   "memory usage (MiB)": 27.863722
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T12:55:00.000Z",
+   "cpu usage (mcores)": 405.89,
+   "memory usage (MiB)": 27.74958
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:00:00.000Z",
+   "cpu usage (mcores)": 417.2,
+   "memory usage (MiB)": 27.855258
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:05:00.000Z",
+   "cpu usage (mcores)": 409,
+   "memory usage (MiB)": 27.838054
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:10:00.000Z",
+   "cpu usage (mcores)": 423.5602,
+   "memory usage (MiB)": 27.87683
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:15:00.000Z",
+   "cpu usage (mcores)": 417.3809,
+   "memory usage (MiB)": 28.155084
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:20:00.000Z",
+   "cpu usage (mcores)": 375.6889,
+   "memory usage (MiB)": 27.50382
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:25:00.000Z",
+   "cpu usage (mcores)": 438.3068,
+   "memory usage (MiB)": 27.822762
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:30:00.000Z",
+   "cpu usage (mcores)": 443.2144,
+   "memory usage (MiB)": 27.69879
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:35:00.000Z",
+   "cpu usage (mcores)": 397.66,
+   "memory usage (MiB)": 28.03002
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:40:00.000Z",
+   "cpu usage (mcores)": 387.6778,
+   "memory usage (MiB)": 28.323566
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:45:00.000Z",
+   "cpu usage (mcores)": 420.9105,
+   "memory usage (MiB)": 27.611682
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:50:00.000Z",
+   "cpu usage (mcores)": 410.7689,
+   "memory usage (MiB)": 28.291892
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T13:55:00.000Z",
+   "cpu usage (mcores)": 410.85,
+   "memory usage (MiB)": 27.810474
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:00:00.000Z",
+   "cpu usage (mcores)": 813.5,
+   "memory usage (MiB)": 28.336402
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:05:00.000Z",
+   "cpu usage (mcores)": 420.1939,
+   "memory usage (MiB)": 28.490138
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:10:00.000Z",
+   "cpu usage (mcores)": 477,
+   "memory usage (MiB)": 28.137336
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:15:00.000Z",
+   "cpu usage (mcores)": 401.5804,
+   "memory usage (MiB)": 27.615778
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:20:00.000Z",
+   "cpu usage (mcores)": 423.3,
+   "memory usage (MiB)": 27.885568
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:25:00.000Z",
+   "cpu usage (mcores)": 424.9148,
+   "memory usage (MiB)": 27.52867
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:30:00.000Z",
+   "cpu usage (mcores)": 413.2,
+   "memory usage (MiB)": 27.916152
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:35:00.000Z",
+   "cpu usage (mcores)": 408.5,
+   "memory usage (MiB)": 28.310732
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:40:00.000Z",
+   "cpu usage (mcores)": 423.0471,
+   "memory usage (MiB)": 28.471842
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:45:00.000Z",
+   "cpu usage (mcores)": 413.07,
+   "memory usage (MiB)": 27.752584
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:50:00.000Z",
+   "cpu usage (mcores)": 409.8,
+   "memory usage (MiB)": 27.73074
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T14:55:00.000Z",
+   "cpu usage (mcores)": 423.7688,
+   "memory usage (MiB)": 28.160274
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:00:00.000Z",
+   "cpu usage (mcores)": 412.6,
+   "memory usage (MiB)": 28.131054
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:05:00.000Z",
+   "cpu usage (mcores)": 425.3871,
+   "memory usage (MiB)": 27.672302
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:10:00.000Z",
+   "cpu usage (mcores)": 398.6188,
+   "memory usage (MiB)": 28.095556
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:15:00.000Z",
+   "cpu usage (mcores)": 405.37,
+   "memory usage (MiB)": 28.06033
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:20:00.000Z",
+   "cpu usage (mcores)": 395.19,
+   "memory usage (MiB)": 27.755042
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:25:00.000Z",
+   "cpu usage (mcores)": 418.1,
+   "memory usage (MiB)": 27.784534
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:30:00.000Z",
+   "cpu usage (mcores)": 432.4,
+   "memory usage (MiB)": 28.202052
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:35:00.000Z",
+   "cpu usage (mcores)": 447.9,
+   "memory usage (MiB)": 27.795182
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:40:00.000Z",
+   "cpu usage (mcores)": 412.6667,
+   "memory usage (MiB)": 28.191948
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:45:00.000Z",
+   "cpu usage (mcores)": 407.31,
+   "memory usage (MiB)": 28.589534
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:50:00.000Z",
+   "cpu usage (mcores)": 411.4,
+   "memory usage (MiB)": 27.590382
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T15:55:00.000Z",
+   "cpu usage (mcores)": 428.7821,
+   "memory usage (MiB)": 27.596118
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:00:00.000Z",
+   "cpu usage (mcores)": 440.9,
+   "memory usage (MiB)": 27.878196
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:05:00.000Z",
+   "cpu usage (mcores)": 417.4,
+   "memory usage (MiB)": 27.833958
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:10:00.000Z",
+   "cpu usage (mcores)": 396.9253,
+   "memory usage (MiB)": 27.817848
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:15:00.000Z",
+   "cpu usage (mcores)": 444.3903,
+   "memory usage (MiB)": 28.087364
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:20:00.000Z",
+   "cpu usage (mcores)": 451.388,
+   "memory usage (MiB)": 28.356062
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:25:00.000Z",
+   "cpu usage (mcores)": 420.2,
+   "memory usage (MiB)": 27.812932
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:30:00.000Z",
+   "cpu usage (mcores)": 426.2766,
+   "memory usage (MiB)": 28.791604
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:35:00.000Z",
+   "cpu usage (mcores)": 422.4742,
+   "memory usage (MiB)": 28.081084
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:40:00.000Z",
+   "cpu usage (mcores)": 777.9,
+   "memory usage (MiB)": 44.707436
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:45:00.000Z",
+   "cpu usage (mcores)": 401.73,
+   "memory usage (MiB)": 25.219892
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:50:00.000Z",
+   "cpu usage (mcores)": 424.5477,
+   "memory usage (MiB)": 26.05329
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T16:55:00.000Z",
+   "cpu usage (mcores)": 440.9,
+   "memory usage (MiB)": 27.33097
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:00:00.000Z",
+   "cpu usage (mcores)": 421.814,
+   "memory usage (MiB)": 26.883686
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:05:00.000Z",
+   "cpu usage (mcores)": 449.1,
+   "memory usage (MiB)": 27.6693
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:10:00.000Z",
+   "cpu usage (mcores)": 440.5,
+   "memory usage (MiB)": 27.77006
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:15:00.000Z",
+   "cpu usage (mcores)": 430.6043,
+   "memory usage (MiB)": 27.487164
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:20:00.000Z",
+   "cpu usage (mcores)": 415.04,
+   "memory usage (MiB)": 27.708894
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:25:00.000Z",
+   "cpu usage (mcores)": 416.73,
+   "memory usage (MiB)": 27.190886
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:30:00.000Z",
+   "cpu usage (mcores)": 410.18,
+   "memory usage (MiB)": 27.061726
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:35:00.000Z",
+   "cpu usage (mcores)": 454.4539,
+   "memory usage (MiB)": 27.741116
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:40:00.000Z",
+   "cpu usage (mcores)": 429.5,
+   "memory usage (MiB)": 27.736474
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:45:00.000Z",
+   "cpu usage (mcores)": 427.0391,
+   "memory usage (MiB)": 27.930898
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:50:00.000Z",
+   "cpu usage (mcores)": 408.3,
+   "memory usage (MiB)": 27.40852
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T17:55:00.000Z",
+   "cpu usage (mcores)": 416.1,
+   "memory usage (MiB)": 27.015304
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:00:00.000Z",
+   "cpu usage (mcores)": 406.79,
+   "memory usage (MiB)": 27.495356
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:05:00.000Z",
+   "cpu usage (mcores)": 444.3126,
+   "memory usage (MiB)": 27.448116
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:10:00.000Z",
+   "cpu usage (mcores)": 469.1369,
+   "memory usage (MiB)": 27.578914
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:15:00.000Z",
+   "cpu usage (mcores)": 392.0937,
+   "memory usage (MiB)": 27.701522
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:20:00.000Z",
+   "cpu usage (mcores)": 463.1107,
+   "memory usage (MiB)": 27.758318
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:25:00.000Z",
+   "cpu usage (mcores)": 394.09,
+   "memory usage (MiB)": 27.68541
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:30:00.000Z",
+   "cpu usage (mcores)": 424.8477,
+   "memory usage (MiB)": 27.76733
+ },
+ {
+   "app": "alertmanager",
+   "time": "20227-21T18:35:00.000Z",
+   "cpu usage (mcores)": 399.27,
+   "memory usage (MiB)": 27.567992
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T06:35:00.000Z",
+   "cpu usage (mcores)": 925.0233,
+   "memory usage (MiB)": 190.549472
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T06:40:00.000Z",
+   "cpu usage (mcores)": 828.6376,
+   "memory usage (MiB)": 190.441056
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T06:45:00.000Z",
+   "cpu usage (mcores)": 757.3,
+   "memory usage (MiB)": 190.634944
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T06:50:00.000Z",
+   "cpu usage (mcores)": 809.8165,
+   "memory usage (MiB)": 190.741168
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T06:55:00.000Z",
+   "cpu usage (mcores)": 850.9111,
+   "memory usage (MiB)": 190.127584
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:00:00.000Z",
+   "cpu usage (mcores)": 822.5268,
+   "memory usage (MiB)": 190.2988
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:05:00.000Z",
+   "cpu usage (mcores)": 884.5828,
+   "memory usage (MiB)": 190.312176
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:10:00.000Z",
+   "cpu usage (mcores)": 826.2437,
+   "memory usage (MiB)": 189.658176
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:15:00.000Z",
+   "cpu usage (mcores)": 913.7279,
+   "memory usage (MiB)": 190.07488
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:20:00.000Z",
+   "cpu usage (mcores)": 875.6252,
+   "memory usage (MiB)": 190.422224
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:25:00.000Z",
+   "cpu usage (mcores)": 777.3169,
+   "memory usage (MiB)": 190.89736
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:30:00.000Z",
+   "cpu usage (mcores)": 875.0355,
+   "memory usage (MiB)": 190.622384
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:35:00.000Z",
+   "cpu usage (mcores)": 785.7,
+   "memory usage (MiB)": 190.268752
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:40:00.000Z",
+   "cpu usage (mcores)": 850.1836,
+   "memory usage (MiB)": 190.19448
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:45:00.000Z",
+   "cpu usage (mcores)": 884.25,
+   "memory usage (MiB)": 190.743616
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:50:00.000Z",
+   "cpu usage (mcores)": 811.0576,
+   "memory usage (MiB)": 190.864864
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T07:55:00.000Z",
+   "cpu usage (mcores)": 884.7314,
+   "memory usage (MiB)": 190.2652
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:00:00.000Z",
+   "cpu usage (mcores)": 850.3317,
+   "memory usage (MiB)": 191.380416
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:05:00.000Z",
+   "cpu usage (mcores)": 786.3,
+   "memory usage (MiB)": 189.90776
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:10:00.000Z",
+   "cpu usage (mcores)": 835.9127,
+   "memory usage (MiB)": 190.091536
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:15:00.000Z",
+   "cpu usage (mcores)": 856.9297,
+   "memory usage (MiB)": 190.707568
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:20:00.000Z",
+   "cpu usage (mcores)": 783.808,
+   "memory usage (MiB)": 190.069424
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:25:00.000Z",
+   "cpu usage (mcores)": 869.2145,
+   "memory usage (MiB)": 190.849296
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:30:00.000Z",
+   "cpu usage (mcores)": 768.3,
+   "memory usage (MiB)": 189.619952
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:35:00.000Z",
+   "cpu usage (mcores)": 856.6348,
+   "memory usage (MiB)": 190.057408
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:40:00.000Z",
+   "cpu usage (mcores)": 816.8935,
+   "memory usage (MiB)": 189.968112
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:45:00.000Z",
+   "cpu usage (mcores)": 851.7995,
+   "memory usage (MiB)": 191.081408
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:50:00.000Z",
+   "cpu usage (mcores)": 873.5372,
+   "memory usage (MiB)": 190.250192
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T08:55:00.000Z",
+   "cpu usage (mcores)": 793.2437,
+   "memory usage (MiB)": 191.139024
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:00:00.000Z",
+   "cpu usage (mcores)": 860.6611,
+   "memory usage (MiB)": 189.721808
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:05:00.000Z",
+   "cpu usage (mcores)": 837.8,
+   "memory usage (MiB)": 190.165808
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:10:00.000Z",
+   "cpu usage (mcores)": 840.0107,
+   "memory usage (MiB)": 191.22832
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:15:00.000Z",
+   "cpu usage (mcores)": 885.4251,
+   "memory usage (MiB)": 191.203472
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:20:00.000Z",
+   "cpu usage (mcores)": 877.3252,
+   "memory usage (MiB)": 189.6276
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:25:00.000Z",
+   "cpu usage (mcores)": 855.6968,
+   "memory usage (MiB)": 191.050544
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:30:00.000Z",
+   "cpu usage (mcores)": 847.4003,
+   "memory usage (MiB)": 190.264656
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:35:00.000Z",
+   "cpu usage (mcores)": 828.5427,
+   "memory usage (MiB)": 190.28104
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:40:00.000Z",
+   "cpu usage (mcores)": 853.6832,
+   "memory usage (MiB)": 190.708128
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:45:00.000Z",
+   "cpu usage (mcores)": 866.5854,
+   "memory usage (MiB)": 190.214416
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:50:00.000Z",
+   "cpu usage (mcores)": 829.8,
+   "memory usage (MiB)": 190.24472
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T09:55:00.000Z",
+   "cpu usage (mcores)": 845.828,
+   "memory usage (MiB)": 190.261664
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:00:00.000Z",
+   "cpu usage (mcores)": 869.6509,
+   "memory usage (MiB)": 190.912096
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:05:00.000Z",
+   "cpu usage (mcores)": 842.4356,
+   "memory usage (MiB)": 190.09072
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:10:00.000Z",
+   "cpu usage (mcores)": 827.9748,
+   "memory usage (MiB)": 190.13632
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:15:00.000Z",
+   "cpu usage (mcores)": 850.7161,
+   "memory usage (MiB)": 190.313264
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:20:00.000Z",
+   "cpu usage (mcores)": 837.3469,
+   "memory usage (MiB)": 190.26384
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:25:00.000Z",
+   "cpu usage (mcores)": 806.438,
+   "memory usage (MiB)": 190.012352
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:30:00.000Z",
+   "cpu usage (mcores)": 874.3663,
+   "memory usage (MiB)": 190.187104
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:35:00.000Z",
+   "cpu usage (mcores)": 921.8874,
+   "memory usage (MiB)": 191.232688
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:40:00.000Z",
+   "cpu usage (mcores)": 879.5346,
+   "memory usage (MiB)": 189.705968
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:45:00.000Z",
+   "cpu usage (mcores)": 913.4818,
+   "memory usage (MiB)": 190.717136
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:50:00.000Z",
+   "cpu usage (mcores)": 834.9,
+   "memory usage (MiB)": 190.248816
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T10:55:00.000Z",
+   "cpu usage (mcores)": 869.7721,
+   "memory usage (MiB)": 190.844656
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:00:00.000Z",
+   "cpu usage (mcores)": 909.4333,
+   "memory usage (MiB)": 191.636272
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:05:00.000Z",
+   "cpu usage (mcores)": 900.4915,
+   "memory usage (MiB)": 189.194784
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:10:00.000Z",
+   "cpu usage (mcores)": 813.6,
+   "memory usage (MiB)": 190.522976
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:15:00.000Z",
+   "cpu usage (mcores)": 846.8588,
+   "memory usage (MiB)": 190.929584
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:20:00.000Z",
+   "cpu usage (mcores)": 811.9021,
+   "memory usage (MiB)": 190.587424
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:25:00.000Z",
+   "cpu usage (mcores)": 882.7428,
+   "memory usage (MiB)": 190.776656
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:30:00.000Z",
+   "cpu usage (mcores)": 828.8832,
+   "memory usage (MiB)": 189.299648
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:35:00.000Z",
+   "cpu usage (mcores)": 838.4,
+   "memory usage (MiB)": 189.916768
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:40:00.000Z",
+   "cpu usage (mcores)": 808.2464,
+   "memory usage (MiB)": 190.702928
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:45:00.000Z",
+   "cpu usage (mcores)": 909.2877,
+   "memory usage (MiB)": 190.271488
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:50:00.000Z",
+   "cpu usage (mcores)": 814.8396,
+   "memory usage (MiB)": 190.151888
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T11:55:00.000Z",
+   "cpu usage (mcores)": 813.3,
+   "memory usage (MiB)": 190.105184
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:00:00.000Z",
+   "cpu usage (mcores)": 867.2072,
+   "memory usage (MiB)": 191.362928
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:05:00.000Z",
+   "cpu usage (mcores)": 929.4039,
+   "memory usage (MiB)": 191.065568
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:10:00.000Z",
+   "cpu usage (mcores)": 762.7,
+   "memory usage (MiB)": 191.63
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:15:00.000Z",
+   "cpu usage (mcores)": 870.286,
+   "memory usage (MiB)": 190.027088
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:20:00.000Z",
+   "cpu usage (mcores)": 796.6,
+   "memory usage (MiB)": 190.546736
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:25:00.000Z",
+   "cpu usage (mcores)": 841.1381,
+   "memory usage (MiB)": 190.713312
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:30:00.000Z",
+   "cpu usage (mcores)": 902.8124,
+   "memory usage (MiB)": 190.186016
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:35:00.000Z",
+   "cpu usage (mcores)": 893.9264,
+   "memory usage (MiB)": 190.597264
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:40:00.000Z",
+   "cpu usage (mcores)": 811,
+   "memory usage (MiB)": 188.87776
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:45:00.000Z",
+   "cpu usage (mcores)": 892.671,
+   "memory usage (MiB)": 190.415392
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:50:00.000Z",
+   "cpu usage (mcores)": 861.7767,
+   "memory usage (MiB)": 190.801776
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T12:55:00.000Z",
+   "cpu usage (mcores)": 777.1647,
+   "memory usage (MiB)": 189.834304
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:00:00.000Z",
+   "cpu usage (mcores)": 810.5,
+   "memory usage (MiB)": 192.195248
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:05:00.000Z",
+   "cpu usage (mcores)": 900.0067,
+   "memory usage (MiB)": 189.915136
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:10:00.000Z",
+   "cpu usage (mcores)": 849.5208,
+   "memory usage (MiB)": 190.08608
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:15:00.000Z",
+   "cpu usage (mcores)": 848.0066,
+   "memory usage (MiB)": 189.209264
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:20:00.000Z",
+   "cpu usage (mcores)": 834.5963,
+   "memory usage (MiB)": 191.16496
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:25:00.000Z",
+   "cpu usage (mcores)": 900.0179,
+   "memory usage (MiB)": 191.060656
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:30:00.000Z",
+   "cpu usage (mcores)": 844.5999,
+   "memory usage (MiB)": 189.704048
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:35:00.000Z",
+   "cpu usage (mcores)": 834.9,
+   "memory usage (MiB)": 189.92824
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:40:00.000Z",
+   "cpu usage (mcores)": 824.7,
+   "memory usage (MiB)": 190.923568
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:45:00.000Z",
+   "cpu usage (mcores)": 850.236,
+   "memory usage (MiB)": 189.638512
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:50:00.000Z",
+   "cpu usage (mcores)": 883.8043,
+   "memory usage (MiB)": 189.846592
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T13:55:00.000Z",
+   "cpu usage (mcores)": 798.8,
+   "memory usage (MiB)": 190.783488
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:00:00.000Z",
+   "cpu usage (mcores)": 912.7812,
+   "memory usage (MiB)": 189.684944
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:05:00.000Z",
+   "cpu usage (mcores)": 795.6,
+   "memory usage (MiB)": 191.156224
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:10:00.000Z",
+   "cpu usage (mcores)": 897.7762,
+   "memory usage (MiB)": 190.30808
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:15:00.000Z",
+   "cpu usage (mcores)": 851.1289,
+   "memory usage (MiB)": 190.518608
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:20:00.000Z",
+   "cpu usage (mcores)": 796.7,
+   "memory usage (MiB)": 189.032304
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:25:00.000Z",
+   "cpu usage (mcores)": 823.2028,
+   "memory usage (MiB)": 192.04424
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:30:00.000Z",
+   "cpu usage (mcores)": 792.0823,
+   "memory usage (MiB)": 189.302096
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:35:00.000Z",
+   "cpu usage (mcores)": 892.9103,
+   "memory usage (MiB)": 189.547584
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:40:00.000Z",
+   "cpu usage (mcores)": 827.767,
+   "memory usage (MiB)": 190.84712
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:45:00.000Z",
+   "cpu usage (mcores)": 870.3866,
+   "memory usage (MiB)": 191.229952
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:50:00.000Z",
+   "cpu usage (mcores)": 876.9145,
+   "memory usage (MiB)": 190.138784
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T14:55:00.000Z",
+   "cpu usage (mcores)": 886.8894,
+   "memory usage (MiB)": 190.649136
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:00:00.000Z",
+   "cpu usage (mcores)": 846.5216,
+   "memory usage (MiB)": 190.305616
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:05:00.000Z",
+   "cpu usage (mcores)": 819.9907,
+   "memory usage (MiB)": 190.260288
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:10:00.000Z",
+   "cpu usage (mcores)": 772.6508,
+   "memory usage (MiB)": 190.596704
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:15:00.000Z",
+   "cpu usage (mcores)": 893.6922,
+   "memory usage (MiB)": 189.392752
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:20:00.000Z",
+   "cpu usage (mcores)": 874.7549,
+   "memory usage (MiB)": 191.560912
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:25:00.000Z",
+   "cpu usage (mcores)": 777.8986,
+   "memory usage (MiB)": 190.374976
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:30:00.000Z",
+   "cpu usage (mcores)": 835.845,
+   "memory usage (MiB)": 190.914016
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:35:00.000Z",
+   "cpu usage (mcores)": 827.9,
+   "memory usage (MiB)": 190.133312
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:40:00.000Z",
+   "cpu usage (mcores)": 849.4397,
+   "memory usage (MiB)": 189.832944
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:45:00.000Z",
+   "cpu usage (mcores)": 830,
+   "memory usage (MiB)": 190.382352
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:50:00.000Z",
+   "cpu usage (mcores)": 815.6,
+   "memory usage (MiB)": 190.082528
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T15:55:00.000Z",
+   "cpu usage (mcores)": 934.6021,
+   "memory usage (MiB)": 190.468096
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:00:00.000Z",
+   "cpu usage (mcores)": 819.8,
+   "memory usage (MiB)": 189.674016
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:05:00.000Z",
+   "cpu usage (mcores)": 880.1226,
+   "memory usage (MiB)": 190.18656
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:10:00.000Z",
+   "cpu usage (mcores)": 906.1399,
+   "memory usage (MiB)": 190.56176
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:15:00.000Z",
+   "cpu usage (mcores)": 813.6,
+   "memory usage (MiB)": 189.589648
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:20:00.000Z",
+   "cpu usage (mcores)": 819.2226,
+   "memory usage (MiB)": 190.44352
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:25:00.000Z",
+   "cpu usage (mcores)": 831.3751,
+   "memory usage (MiB)": 190.279136
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:30:00.000Z",
+   "cpu usage (mcores)": 899.6119,
+   "memory usage (MiB)": 190.564496
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:35:00.000Z",
+   "cpu usage (mcores)": 863.5812,
+   "memory usage (MiB)": 190.3332
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:40:00.000Z",
+   "cpu usage (mcores)": 834.8,
+   "memory usage (MiB)": 189.504176
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:45:00.000Z",
+   "cpu usage (mcores)": 848.3555,
+   "memory usage (MiB)": 189.884
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:50:00.000Z",
+   "cpu usage (mcores)": 893.5513,
+   "memory usage (MiB)": 190.050032
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T16:55:00.000Z",
+   "cpu usage (mcores)": 797.3,
+   "memory usage (MiB)": 189.89848
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:00:00.000Z",
+   "cpu usage (mcores)": 956.9601,
+   "memory usage (MiB)": 190.537456
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:05:00.000Z",
+   "cpu usage (mcores)": 811.8,
+   "memory usage (MiB)": 190.85776
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:10:00.000Z",
+   "cpu usage (mcores)": 839.4955,
+   "memory usage (MiB)": 190.05112
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:15:00.000Z",
+   "cpu usage (mcores)": 878.609,
+   "memory usage (MiB)": 188.453408
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:20:00.000Z",
+   "cpu usage (mcores)": 802.3,
+   "memory usage (MiB)": 190.543728
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:25:00.000Z",
+   "cpu usage (mcores)": 916.2905,
+   "memory usage (MiB)": 190.245552
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:30:00.000Z",
+   "cpu usage (mcores)": 905.7381,
+   "memory usage (MiB)": 191.27992
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:35:00.000Z",
+   "cpu usage (mcores)": 771.1267,
+   "memory usage (MiB)": 191.540704
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:40:00.000Z",
+   "cpu usage (mcores)": 879.4574,
+   "memory usage (MiB)": 190.704848
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:45:00.000Z",
+   "cpu usage (mcores)": 774.3433,
+   "memory usage (MiB)": 191.2376
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:50:00.000Z",
+   "cpu usage (mcores)": 836.0255,
+   "memory usage (MiB)": 189.692864
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T17:55:00.000Z",
+   "cpu usage (mcores)": 837.4,
+   "memory usage (MiB)": 191.27528
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:00:00.000Z",
+   "cpu usage (mcores)": 856.8555,
+   "memory usage (MiB)": 190.156256
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:05:00.000Z",
+   "cpu usage (mcores)": 910.2095,
+   "memory usage (MiB)": 190.009888
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:10:00.000Z",
+   "cpu usage (mcores)": 888.2732,
+   "memory usage (MiB)": 192.055152
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:15:00.000Z",
+   "cpu usage (mcores)": 877.945,
+   "memory usage (MiB)": 190.58032
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:20:00.000Z",
+   "cpu usage (mcores)": 835.932,
+   "memory usage (MiB)": 190.092896
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:25:00.000Z",
+   "cpu usage (mcores)": 832.8,
+   "memory usage (MiB)": 190.81816
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:30:00.000Z",
+   "cpu usage (mcores)": 808.0689,
+   "memory usage (MiB)": 190.491856
+ },
+ {
+   "app": "grafana",
+   "time": "20227-21T18:35:00.000Z",
+   "cpu usage (mcores)": 866.5838,
+   "memory usage (MiB)": 192.451826
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T06:35:00.000Z",
+   "cpu usage (mcores)": 34694.8,
+   "memory usage (MiB)": 5010.441728
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T06:40:00.000Z",
+   "cpu usage (mcores)": 36685.296,
+   "memory usage (MiB)": 5031.820288
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T06:45:00.000Z",
+   "cpu usage (mcores)": 35528.8768,
+   "memory usage (MiB)": 5071.330304
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T06:50:00.000Z",
+   "cpu usage (mcores)": 35373.9968,
+   "memory usage (MiB)": 5077.995008
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T06:55:00.000Z",
+   "cpu usage (mcores)": 36161.8432,
+   "memory usage (MiB)": 5089.32608
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:00:00.000Z",
+   "cpu usage (mcores)": 44281.7632,
+   "memory usage (MiB)": 5106.925056
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:05:00.000Z",
+   "cpu usage (mcores)": 35004.0064,
+   "memory usage (MiB)": 5078.875648
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:10:00.000Z",
+   "cpu usage (mcores)": 36404.5536,
+   "memory usage (MiB)": 5136.184832
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:15:00.000Z",
+   "cpu usage (mcores)": 34575.9008,
+   "memory usage (MiB)": 5242.865152
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:20:00.000Z",
+   "cpu usage (mcores)": 36375.6,
+   "memory usage (MiB)": 5234.732032
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:25:00.000Z",
+   "cpu usage (mcores)": 35629.1584,
+   "memory usage (MiB)": 5276.446208
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:30:00.000Z",
+   "cpu usage (mcores)": 36446.0416,
+   "memory usage (MiB)": 4785.281536
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:35:00.000Z",
+   "cpu usage (mcores)": 35710.88,
+   "memory usage (MiB)": 4797.20448
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:40:00.000Z",
+   "cpu usage (mcores)": 36550.032,
+   "memory usage (MiB)": 4882.641408
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:45:00.000Z",
+   "cpu usage (mcores)": 36845.216,
+   "memory usage (MiB)": 4827.898368
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:50:00.000Z",
+   "cpu usage (mcores)": 37612.5568,
+   "memory usage (MiB)": 4906.284032
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T07:55:00.000Z",
+   "cpu usage (mcores)": 36205.264,
+   "memory usage (MiB)": 4924.854784
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:00:00.000Z",
+   "cpu usage (mcores)": 36699.9072,
+   "memory usage (MiB)": 4905.284608
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:05:00.000Z",
+   "cpu usage (mcores)": 36133.3472,
+   "memory usage (MiB)": 4979.423744
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:10:00.000Z",
+   "cpu usage (mcores)": 35662.7392,
+   "memory usage (MiB)": 5002.583552
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:15:00.000Z",
+   "cpu usage (mcores)": 35355.8752,
+   "memory usage (MiB)": 5019.067904
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:20:00.000Z",
+   "cpu usage (mcores)": 35104.1856,
+   "memory usage (MiB)": 4993.78432
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:25:00.000Z",
+   "cpu usage (mcores)": 34811.5136,
+   "memory usage (MiB)": 5045.944832
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:30:00.000Z",
+   "cpu usage (mcores)": 35857.2608,
+   "memory usage (MiB)": 5172.622336
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:35:00.000Z",
+   "cpu usage (mcores)": 36748.7328,
+   "memory usage (MiB)": 5083.67872
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:40:00.000Z",
+   "cpu usage (mcores)": 36667.4496,
+   "memory usage (MiB)": 5137.10848
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:45:00.000Z",
+   "cpu usage (mcores)": 36171.1552,
+   "memory usage (MiB)": 5133.166592
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:50:00.000Z",
+   "cpu usage (mcores)": 36479.6192,
+   "memory usage (MiB)": 5143.590912
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T08:55:00.000Z",
+   "cpu usage (mcores)": 36507.5872,
+   "memory usage (MiB)": 5183.364608
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:00:00.000Z",
+   "cpu usage (mcores)": 51344.7488,
+   "memory usage (MiB)": 5223.259136
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:05:00.000Z",
+   "cpu usage (mcores)": 35375.7376,
+   "memory usage (MiB)": 5230.939648
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:10:00.000Z",
+   "cpu usage (mcores)": 35335.0496,
+   "memory usage (MiB)": 5212.714496
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:15:00.000Z",
+   "cpu usage (mcores)": 34553.5552,
+   "memory usage (MiB)": 5250.269184
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:20:00.000Z",
+   "cpu usage (mcores)": 35635.3568,
+   "memory usage (MiB)": 5290.296832
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:25:00.000Z",
+   "cpu usage (mcores)": 34467.9648,
+   "memory usage (MiB)": 5253.250048
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:30:00.000Z",
+   "cpu usage (mcores)": 35833.6,
+   "memory usage (MiB)": 4796.807168
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:35:00.000Z",
+   "cpu usage (mcores)": 35851.6992,
+   "memory usage (MiB)": 4783.120896
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:40:00.000Z",
+   "cpu usage (mcores)": 35349.2864,
+   "memory usage (MiB)": 4737.36192
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:45:00.000Z",
+   "cpu usage (mcores)": 36232.2432,
+   "memory usage (MiB)": 4773.39392
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:50:00.000Z",
+   "cpu usage (mcores)": 36594.3552,
+   "memory usage (MiB)": 4799.385088
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T09:55:00.000Z",
+   "cpu usage (mcores)": 36510.672,
+   "memory usage (MiB)": 4823.2704
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:00:00.000Z",
+   "cpu usage (mcores)": 37423.5296,
+   "memory usage (MiB)": 4860.031488
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:05:00.000Z",
+   "cpu usage (mcores)": 33885.5584,
+   "memory usage (MiB)": 4816.463872
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:10:00.000Z",
+   "cpu usage (mcores)": 35337.1648,
+   "memory usage (MiB)": 4888.44288
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:15:00.000Z",
+   "cpu usage (mcores)": 33412.2464,
+   "memory usage (MiB)": 4880.133632
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:20:00.000Z",
+   "cpu usage (mcores)": 35864.0704,
+   "memory usage (MiB)": 4900.041216
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:25:00.000Z",
+   "cpu usage (mcores)": 35589.04,
+   "memory usage (MiB)": 4997.651968
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:30:00.000Z",
+   "cpu usage (mcores)": 34939.2384,
+   "memory usage (MiB)": 4996.856832
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:35:00.000Z",
+   "cpu usage (mcores)": 34800.9344,
+   "memory usage (MiB)": 4959.112704
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:40:00.000Z",
+   "cpu usage (mcores)": 36531.6864,
+   "memory usage (MiB)": 5017.967104
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:45:00.000Z",
+   "cpu usage (mcores)": 35762.7264,
+   "memory usage (MiB)": 5046.508032
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:50:00.000Z",
+   "cpu usage (mcores)": 36053.3216,
+   "memory usage (MiB)": 5065.018368
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T10:55:00.000Z",
+   "cpu usage (mcores)": 36715.4624,
+   "memory usage (MiB)": 5116.54912
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:00:00.000Z",
+   "cpu usage (mcores)": 42979.296,
+   "memory usage (MiB)": 5092.265984
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:05:00.000Z",
+   "cpu usage (mcores)": 34644.6816,
+   "memory usage (MiB)": 5135.322112
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:10:00.000Z",
+   "cpu usage (mcores)": 36383.3664,
+   "memory usage (MiB)": 5164.494848
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:15:00.000Z",
+   "cpu usage (mcores)": 34456.9888,
+   "memory usage (MiB)": 5198.882816
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:20:00.000Z",
+   "cpu usage (mcores)": 37046.9568,
+   "memory usage (MiB)": 5225.304064
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:25:00.000Z",
+   "cpu usage (mcores)": 35971.472,
+   "memory usage (MiB)": 5220.523008
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:30:00.000Z",
+   "cpu usage (mcores)": 35990.4704,
+   "memory usage (MiB)": 4833.08288
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:35:00.000Z",
+   "cpu usage (mcores)": 35176.5632,
+   "memory usage (MiB)": 4823.74912
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:40:00.000Z",
+   "cpu usage (mcores)": 37272.1504,
+   "memory usage (MiB)": 4850.855936
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:45:00.000Z",
+   "cpu usage (mcores)": 36173.3408,
+   "memory usage (MiB)": 4843.132416
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:50:00.000Z",
+   "cpu usage (mcores)": 37564.4896,
+   "memory usage (MiB)": 4901.562368
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T11:55:00.000Z",
+   "cpu usage (mcores)": 37096.1696,
+   "memory usage (MiB)": 4923.421184
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:00:00.000Z",
+   "cpu usage (mcores)": 37698.4352,
+   "memory usage (MiB)": 4958.893568
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:05:00.000Z",
+   "cpu usage (mcores)": 35389.8496,
+   "memory usage (MiB)": 5029.710848
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:10:00.000Z",
+   "cpu usage (mcores)": 35393.8176,
+   "memory usage (MiB)": 4952.884224
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:15:00.000Z",
+   "cpu usage (mcores)": 34469.2864,
+   "memory usage (MiB)": 5006.493184
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:20:00.000Z",
+   "cpu usage (mcores)": 35629.296,
+   "memory usage (MiB)": 4947.301888
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:25:00.000Z",
+   "cpu usage (mcores)": 36412.2016,
+   "memory usage (MiB)": 4954.027008
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:30:00.000Z",
+   "cpu usage (mcores)": 35019.2416,
+   "memory usage (MiB)": 5013.362688
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:35:00.000Z",
+   "cpu usage (mcores)": 36087.792,
+   "memory usage (MiB)": 5073.770496
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:40:00.000Z",
+   "cpu usage (mcores)": 36102.96,
+   "memory usage (MiB)": 5102.337024
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:45:00.000Z",
+   "cpu usage (mcores)": 35378.3712,
+   "memory usage (MiB)": 5115.983872
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:50:00.000Z",
+   "cpu usage (mcores)": 35850.4608,
+   "memory usage (MiB)": 5148.144128
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T12:55:00.000Z",
+   "cpu usage (mcores)": 36910.576,
+   "memory usage (MiB)": 5097.155072
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:00:00.000Z",
+   "cpu usage (mcores)": 43700.2816,
+   "memory usage (MiB)": 5185.309696
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:05:00.000Z",
+   "cpu usage (mcores)": 35647.8368,
+   "memory usage (MiB)": 5184.914944
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:10:00.000Z",
+   "cpu usage (mcores)": 35898.5856,
+   "memory usage (MiB)": 5250.151424
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:15:00.000Z",
+   "cpu usage (mcores)": 35881.8976,
+   "memory usage (MiB)": 5292.282368
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:20:00.000Z",
+   "cpu usage (mcores)": 34870.7104,
+   "memory usage (MiB)": 5291.009536
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:25:00.000Z",
+   "cpu usage (mcores)": 37324.8704,
+   "memory usage (MiB)": 5319.97184
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:30:00.000Z",
+   "cpu usage (mcores)": 35537.616,
+   "memory usage (MiB)": 4953.129472
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:35:00.000Z",
+   "cpu usage (mcores)": 35708.96,
+   "memory usage (MiB)": 4760.996352
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:40:00.000Z",
+   "cpu usage (mcores)": 36683.056,
+   "memory usage (MiB)": 4818.131968
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:45:00.000Z",
+   "cpu usage (mcores)": 37238.2816,
+   "memory usage (MiB)": 4844.999168
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:50:00.000Z",
+   "cpu usage (mcores)": 36360.5216,
+   "memory usage (MiB)": 4890.11968
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T13:55:00.000Z",
+   "cpu usage (mcores)": 37230.7968,
+   "memory usage (MiB)": 4878.590976
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:00:00.000Z",
+   "cpu usage (mcores)": 37549.7792,
+   "memory usage (MiB)": 4968.902656
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:05:00.000Z",
+   "cpu usage (mcores)": 35911.4464,
+   "memory usage (MiB)": 4938.875392
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:10:00.000Z",
+   "cpu usage (mcores)": 35231.1808,
+   "memory usage (MiB)": 4940.197376
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:15:00.000Z",
+   "cpu usage (mcores)": 36182.7008,
+   "memory usage (MiB)": 4995.261952
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:20:00.000Z",
+   "cpu usage (mcores)": 35122.3872,
+   "memory usage (MiB)": 5016.78848
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:25:00.000Z",
+   "cpu usage (mcores)": 36082.8992,
+   "memory usage (MiB)": 5057.628672
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:30:00.000Z",
+   "cpu usage (mcores)": 34292.2272,
+   "memory usage (MiB)": 5045.082624
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:35:00.000Z",
+   "cpu usage (mcores)": 37268.1536,
+   "memory usage (MiB)": 5093.01504
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:40:00.000Z",
+   "cpu usage (mcores)": 36006.7616,
+   "memory usage (MiB)": 5104.879104
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:45:00.000Z",
+   "cpu usage (mcores)": 36284.9088,
+   "memory usage (MiB)": 5079.93856
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:50:00.000Z",
+   "cpu usage (mcores)": 36192.1824,
+   "memory usage (MiB)": 5097.49504
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T14:55:00.000Z",
+   "cpu usage (mcores)": 38189.8624,
+   "memory usage (MiB)": 5062.17472
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:00:00.000Z",
+   "cpu usage (mcores)": 50969.1968,
+   "memory usage (MiB)": 5126.302208
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:05:00.000Z",
+   "cpu usage (mcores)": 35002.0928,
+   "memory usage (MiB)": 5149.56544
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:10:00.000Z",
+   "cpu usage (mcores)": 35791.1872,
+   "memory usage (MiB)": 5176.99328
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:15:00.000Z",
+   "cpu usage (mcores)": 34836.704,
+   "memory usage (MiB)": 5223.606784
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:20:00.000Z",
+   "cpu usage (mcores)": 34521.9264,
+   "memory usage (MiB)": 5257.839104
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:25:00.000Z",
+   "cpu usage (mcores)": 35653.856,
+   "memory usage (MiB)": 5270.523392
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:30:00.000Z",
+   "cpu usage (mcores)": 35125.6128,
+   "memory usage (MiB)": 4864.393728
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:35:00.000Z",
+   "cpu usage (mcores)": 35905.408,
+   "memory usage (MiB)": 4712.015872
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:40:00.000Z",
+   "cpu usage (mcores)": 36828.1696,
+   "memory usage (MiB)": 4769.152512
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:45:00.000Z",
+   "cpu usage (mcores)": 34885.5392,
+   "memory usage (MiB)": 4735.259648
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:50:00.000Z",
+   "cpu usage (mcores)": 36271.2064,
+   "memory usage (MiB)": 4758.721536
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T15:55:00.000Z",
+   "cpu usage (mcores)": 34340.3648,
+   "memory usage (MiB)": 4837.758976
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:00:00.000Z",
+   "cpu usage (mcores)": 38058.6816,
+   "memory usage (MiB)": 4839.294464
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:05:00.000Z",
+   "cpu usage (mcores)": 35471.2448,
+   "memory usage (MiB)": 4904.65024
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:10:00.000Z",
+   "cpu usage (mcores)": 33731.0368,
+   "memory usage (MiB)": 4891.495424
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:15:00.000Z",
+   "cpu usage (mcores)": 35864.6976,
+   "memory usage (MiB)": 4947.9808
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:20:00.000Z",
+   "cpu usage (mcores)": 35639.1584,
+   "memory usage (MiB)": 4914.807296
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:25:00.000Z",
+   "cpu usage (mcores)": 34984.4992,
+   "memory usage (MiB)": 4939.908096
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:30:00.000Z",
+   "cpu usage (mcores)": 36099.4304,
+   "memory usage (MiB)": 4981.915136
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:35:00.000Z",
+   "cpu usage (mcores)": 35153.9392,
+   "memory usage (MiB)": 4997.85472
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:40:00.000Z",
+   "cpu usage (mcores)": 34967.3088,
+   "memory usage (MiB)": 5059.031552
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:45:00.000Z",
+   "cpu usage (mcores)": 34776.5376,
+   "memory usage (MiB)": 5049.059328
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:50:00.000Z",
+   "cpu usage (mcores)": 37877.5968,
+   "memory usage (MiB)": 5078.214144
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T16:55:00.000Z",
+   "cpu usage (mcores)": 36013.0912,
+   "memory usage (MiB)": 5141.29152
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:00:00.000Z",
+   "cpu usage (mcores)": 44521.9744,
+   "memory usage (MiB)": 5119.770112
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:05:00.000Z",
+   "cpu usage (mcores)": 36069.6896,
+   "memory usage (MiB)": 5136.65536
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:10:00.000Z",
+   "cpu usage (mcores)": 35638.3232,
+   "memory usage (MiB)": 5147.86048
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:15:00.000Z",
+   "cpu usage (mcores)": 35888.832,
+   "memory usage (MiB)": 5214.947328
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:20:00.000Z",
+   "cpu usage (mcores)": 37229.216,
+   "memory usage (MiB)": 5232.313344
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:25:00.000Z",
+   "cpu usage (mcores)": 36031.1488,
+   "memory usage (MiB)": 5235.907072
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:30:00.000Z",
+   "cpu usage (mcores)": 35764.6144,
+   "memory usage (MiB)": 4851.058176
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:35:00.000Z",
+   "cpu usage (mcores)": 35705.8528,
+   "memory usage (MiB)": 4830.108672
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:40:00.000Z",
+   "cpu usage (mcores)": 36965.5072,
+   "memory usage (MiB)": 4887.712256
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:45:00.000Z",
+   "cpu usage (mcores)": 36641.1232,
+   "memory usage (MiB)": 4901.434368
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:50:00.000Z",
+   "cpu usage (mcores)": 37718.1504,
+   "memory usage (MiB)": 4913.136128
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T17:55:00.000Z",
+   "cpu usage (mcores)": 36788.4032,
+   "memory usage (MiB)": 4922.4192
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:00:00.000Z",
+   "cpu usage (mcores)": 37082.2368,
+   "memory usage (MiB)": 4961.40032
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:05:00.000Z",
+   "cpu usage (mcores)": 33992.1152,
+   "memory usage (MiB)": 4969.457664
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:10:00.000Z",
+   "cpu usage (mcores)": 37286.192,
+   "memory usage (MiB)": 4982.233088
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:15:00.000Z",
+   "cpu usage (mcores)": 34689.5904,
+   "memory usage (MiB)": 5047.673344
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:20:00.000Z",
+   "cpu usage (mcores)": 35930.3392,
+   "memory usage (MiB)": 5035.113984
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:25:00.000Z",
+   "cpu usage (mcores)": 35970.9088,
+   "memory usage (MiB)": 5029.9136
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:30:00.000Z",
+   "cpu usage (mcores)": 35089.248,
+   "memory usage (MiB)": 5086.042624
+ },
+ {
+   "app": "prometheus",
+   "time": "20227-21T18:35:00.000Z",
+   "cpu usage (mcores)": 36491.5168,
+   "memory usage (MiB)": 5026.231808
+ }
+]
