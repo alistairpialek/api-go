@@ -1,6 +1,7 @@
 # api-go
 
 Sample Golang REST API using [Gorilla Mux](https://github.com/gorilla/mux) with unit tests.
+API runs as a docker container with tests, formatting and linting run locally for speed and editor integration.
 
 ## Requirements
 
