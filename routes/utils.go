@@ -59,14 +59,3 @@ func jsonError(format string, v ...any) string {
 
 	return string(body)
 }
-
-// // jsonMessage formats an json message.
-// func jsonMessage(format string, v ...any) (string, error) {
-// 	body, err := json.Marshal(fmt.Sprintf(format, v...))
-
-// 	if err != nil {
-// 		return "error formatting message", err
-// 	}
-
-// 	return string(body), nil
-// }
