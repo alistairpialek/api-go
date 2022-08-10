@@ -17,7 +17,7 @@ func handleRequests() {
 	// Strictslash will redirect URL routes with a trailing / to the non-slash route. E.g path/ -> path
 	router := mux.NewRouter().StrictSlash(true)
 
-	router.HandleFunc(routes.HelloEndpoint, routes.GetHello).Methods("GET")
+	router.HandleFunc(routes.CalculateEndpoint, routes.PostCalculate).Methods("POST")
 	router.HandleFunc(routes.HealthEndpoint, routes.GetHealth).Methods("GET")
 	router.HandleFunc(routes.MetadataEndpoint, routes.GetMetadata).Methods("GET")
 	router.Use(utils.MetricsMiddleware)

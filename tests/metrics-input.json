@@ -1,0 +1,38 @@
+[
+  {
+    "app": "a",
+    "time": "20227-21T06:35:00.000Z",
+    "cpu usage (mcores)": 1.00,
+    "memory usage (MiB)": 1.00
+  },
+  {
+    "app": "a",
+    "time": "20227-21T06:40:00.000Z",
+    "cpu usage (mcores)": 2.00,
+    "memory usage (MiB)": 2.00
+  },
+  {
+    "app": "b",
+    "time": "20227-21T06:35:00.000Z",
+    "cpu usage (mcores)": 1.00,
+    "memory usage (MiB)": 1.00
+  },
+  {
+    "app": "b",
+    "time": "20227-21T06:40:00.000Z",
+    "cpu usage (mcores)": 2.00,
+    "memory usage (MiB)": 2.00
+  },
+  {
+    "app": "c",
+    "time": "20227-21T06:35:00.000Z",
+    "cpu usage (mcores)": 1.00,
+    "memory usage (MiB)": 1.00
+  },
+  {
+    "app": "c",
+    "time": "20227-21T06:40:00.000Z",
+    "cpu usage (mcores)": 2.00,
+    "memory usage (MiB)": 2.00
+  }
+]
