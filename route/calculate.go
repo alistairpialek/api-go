@@ -4,12 +4,16 @@ import (
 	"encoding/json"
 	"io"
 	"net/http"
-	"time"
+
+	"github.com/alistairpialek/api-go/v1/log"
+	"github.com/alistairpialek/api-go/v1/util"
 )
 
 const (
 	// CalculateEndpoint route.
 	CalculateEndpoint string = "/calculate"
+	// SuggestionLimitMultiplier provides a limit tolerance.
+	SuggestionLimitMultiplier float32 = 2.00
 )
 
 type calculateResponse struct {
@@ -36,15 +40,14 @@ type inputMetrics []struct {
 // PostCalculate takes service CPU and memory readings and makes suggestions about its request
 // and limit values.
 func PostCalculate(w http.ResponseWriter, r *http.Request) {
-	timeStart := time.Now()
-
 	// Read the request body.
 	reqBody, err := io.ReadAll(r.Body)
 	if err != nil {
-		responseError(w, routeResponse{endpoint: CalculateEndpoint,
-			statusCode:    http.StatusInternalServerError,
-			duration:      time.Since(timeStart),
-			clientMessage: jsonError("invalid payload"),
+		log.ResponseError(w, log.RouteResponse{
+			Endpoint:      CalculateEndpoint,
+			StatusCode:    http.StatusInternalServerError,
+			Duration:      util.TimeSinceRequestStart(),
+			ClientMessage: log.JSONError("invalid payload"),
 		}, err)
 		return
 	}
@@ -53,10 +56,11 @@ func PostCalculate(w http.ResponseWriter, r *http.Request) {
 	var reqMetrics inputMetrics
 	err = json.Unmarshal(reqBody, &reqMetrics)
 	if err != nil {
-		responseError(w, routeResponse{endpoint: CalculateEndpoint,
-			statusCode:    http.StatusInternalServerError,
-			duration:      time.Since(timeStart),
-			clientMessage: jsonError("invalid payload"),
+		log.ResponseError(w, log.RouteResponse{
+			Endpoint:      CalculateEndpoint,
+			StatusCode:    http.StatusInternalServerError,
+			Duration:      util.TimeSinceRequestStart(),
+			ClientMessage: log.JSONError("invalid payload"),
 		}, err)
 		return
 	}
@@ -74,20 +78,20 @@ func PostCalculate(w http.ResponseWriter, r *http.Request) {
 		Services: appSuggestions,
 	})
 	if err != nil {
-		responseError(w, routeResponse{
-			endpoint:      CalculateEndpoint,
-			statusCode:    http.StatusInternalServerError,
-			duration:      time.Since(timeStart),
-			clientMessage: jsonError("suggestions currently unavailable"),
+		log.ResponseError(w, log.RouteResponse{
+			Endpoint:      CalculateEndpoint,
+			StatusCode:    http.StatusInternalServerError,
+			Duration:      util.TimeSinceRequestStart(),
+			ClientMessage: log.JSONError("suggestions currently unavailable"),
 		}, err)
 		return
 	}
 
-	responseMessage(w, routeResponse{
-		endpoint:      CalculateEndpoint,
-		statusCode:    http.StatusOK,
-		duration:      time.Since(timeStart),
-		clientMessage: string(response),
+	log.ResponseMessage(w, log.RouteResponse{
+		Endpoint:      CalculateEndpoint,
+		StatusCode:    http.StatusOK,
+		Duration:      util.TimeSinceRequestStart(),
+		ClientMessage: string(response),
 	})
 }
 
@@ -109,9 +113,8 @@ func calculateResourceSuggestions(metricsKeyed map[string]inputMetrics) (service
 		memoryAverage := memoryTotal / appCount
 
 		// Calculate the limits.
-		additionalToleranceMult := float32(2.00)
-		cpuMax := cpuAverage * additionalToleranceMult
-		memoryMax := memoryAverage * additionalToleranceMult
+		cpuMax := cpuAverage * SuggestionLimitMultiplier
+		memoryMax := memoryAverage * SuggestionLimitMultiplier
 
 		tempService := service{
 			Name:   appName,
