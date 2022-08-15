@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/alistairpialek/api-go/v1/routes"
-	"github.com/alistairpialek/api-go/v1/utils"
+	routes "github.com/alistairpialek/api-go/v1/route"
+	"github.com/alistairpialek/api-go/v1/util"
 
 	"github.com/gorilla/mux"
 )
@@ -20,9 +20,9 @@ func handleRequests() {
 	router.HandleFunc(routes.CalculateEndpoint, routes.PostCalculate).Methods("POST")
 	router.HandleFunc(routes.HealthEndpoint, routes.GetHealth).Methods("GET")
 	router.HandleFunc(routes.MetadataEndpoint, routes.GetMetadata).Methods("GET")
-	router.Use(utils.MetricsMiddleware)
+	router.Use(util.MetricsMiddleware)
 
-	log.Printf("Git commit: %s", utils.GitCommit)
+	log.Printf("Git commit: %s", util.GitCommit)
 	log.Printf("Listening on port: %s", os.Getenv("LISTEN_PORT"))
 
 	srv := &http.Server{
