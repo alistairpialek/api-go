@@ -10,7 +10,7 @@ import (
 )
 
 func Setup(t *testing.T) (statusCode int, respMetrics calculateResponse) {
-	fileContents, err := os.Open("../tests/metrics-input.json")
+	fileContents, err := os.Open("../testdata/metrics-input.json")
 	if err != nil {
 		t.Fatal(err)
 	}
